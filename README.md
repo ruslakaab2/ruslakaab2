@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300",height="200"/>
 </div>
 <!--
 **ruslakaab2/ruslakaab2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
